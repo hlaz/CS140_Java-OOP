@@ -31,7 +31,6 @@ public class Sequence extends Element {
 		return length;
 	}
 	
-	*/
 	
 	void Print()
 	{
